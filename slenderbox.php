@@ -3,7 +3,7 @@
  * Plugin Name: Slenderbox
  * Plugin URI: https://github.com/mpetroff/slenderbox-wp
  * Description: Overlays images on the current page using Slenderbox, a lightweight and framework-free lightbox plugin that can be used with valid HTML5.
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Matthew Petroff
  * Author URI: http://www.mpetroff.net/
  */
