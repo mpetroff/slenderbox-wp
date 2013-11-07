@@ -3,7 +3,7 @@ Contributors: petroffm
 Tags: slenderbox, lightbox, image, photo, picture
 Requires at least: 2.6
 Tested up to: 3.5
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: MIT
 License URI: http://www.opensource.org/licenses/MIT
 
@@ -12,6 +12,9 @@ Overlays images on the current page using Slenderbox, a lightweight and framewor
 == Description ==
 
 This plugin overlays images on the current page using [Slenderbox](http://mpetroff.github.com/slenderbox/).
+
+= 1.1.1 (2013-11-07) =
+* Use proper way to enqueue scripts (thanks Monika Thon-Soun).
 
 = 1.1 (2013-03-06) =
 * Updated to Slenderbox v1.1: Switched loading icon from a SMIL animated SVG to a CSS3 animation for full IE 10 support.
@@ -49,6 +52,9 @@ If you have already installed this plugin:
 * There are possibly other reasons.
 
 == Changelog ==
+
+= 1.1.1 (2013-11-07) =
+* Use proper way to enqueue scripts (thanks Monika Thon-Soun).
 
 = 1.1 (2013-03-06) =
 * Updated to Slenderbox v1.1: Switched loading icon from a SMIL animated SVG to a CSS3 animation for full IE 10 support.
