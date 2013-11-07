@@ -93,7 +93,10 @@ if(get_option('slenderbox_automate') == 1) {
 
 // Include script if not viewing an admin page
 if(!is_admin()) {
-    wp_enqueue_script('slenderbox', plugins_url('slenderbox.js', __FILE__));
+    function slenderbox_scripts() {
+        wp_enqueue_script('slenderbox', plugins_url('slenderbox.js', __FILE__));
+    }
+    add_action('wp_enqueue_scripts', 'slenderbox_scripts');
 }
 
 ?>
