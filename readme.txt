@@ -2,7 +2,7 @@
 Contributors: petroffm
 Tags: slenderbox, lightbox, image, photo, picture
 Requires at least: 2.6
-Tested up to: 3.5
+Tested up to: 3.8
 Stable tag: 1.1.1
 License: MIT
 License URI: http://www.opensource.org/licenses/MIT
