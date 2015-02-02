@@ -2,8 +2,8 @@
 Contributors: petroffm
 Tags: slenderbox, lightbox, image, photo, picture
 Requires at least: 2.6
-Tested up to: 3.8
-Stable tag: 1.1.1
+Tested up to: 4.1
+Stable tag: 1.1.2
 License: MIT
 License URI: http://www.opensource.org/licenses/MIT
 
@@ -12,6 +12,9 @@ Overlays images on the current page using Slenderbox, a lightweight and framewor
 == Description ==
 
 This plugin overlays images on the current page using [Slenderbox](http://mpetroff.github.com/slenderbox/).
+
+= 1.1.2 (2015-02-01) =
+* Make automatic lightbox option work with text widgets.
 
 = 1.1.1 (2013-11-07) =
 * Use proper way to enqueue scripts (thanks Monika Thon-Soun).
@@ -52,6 +55,9 @@ If you have already installed this plugin:
 * There are possibly other reasons.
 
 == Changelog ==
+
+= 1.1.2 (2015-02-01) =
+* Make automatic lightbox option work with text widgets.
 
 = 1.1.1 (2013-11-07) =
 * Use proper way to enqueue scripts (thanks Monika Thon-Soun).
